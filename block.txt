@@ -1042,4 +1042,3 @@
 # Adresy z IP Range
 5.188.62.25
 # Adres testowy do usunięcia!!!
-45.13.232.249
